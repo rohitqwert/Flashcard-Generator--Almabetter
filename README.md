@@ -30,7 +30,6 @@ Start the server
 ## Tech Stack
 - React js( React Router ),
 - Redux,
-- TailwindCSS,
 - React-icons,
 - React Formik & Yup,
 - React-toastify,
