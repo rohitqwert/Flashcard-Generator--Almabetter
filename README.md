@@ -28,7 +28,8 @@ Start the server
 
 
 ## Tech Stack
-- React js( React Router ),
+- React js
+- Formik
 - Redux,
 - React-icons,
 - React Formik & Yup,
